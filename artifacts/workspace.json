@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid19917",
+  "B": "/home/dev/feedback/uid19917",
+  "sha": "93aa187b5d387cc24b7290b3ca3f13f61e139e7c",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "floooh",
+    "repo": "sokol",
+    "sha": "93aa187b5d387cc24b7290b3ca3f13f61e139e7c"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "sokol",
+    "cloneUrl": "https://github.com/Rrr119/sokol.git"
+  },
+  "at": "2026-11-15T08:13:26.979Z"
+}
